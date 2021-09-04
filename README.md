@@ -1,6 +1,6 @@
 ### Hi I'm Kadir 👋
 
-### I am a university student interested in programming and sharing some of my work at this account.
+### I am a university student interested in programming and I share some of my work at this account.
 
 You can also find me on LinkedIn [here](https://www.linkedin.com/in/kadir-efe-dilek-97594b1b2/).
 
@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
